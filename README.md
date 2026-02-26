@@ -42,10 +42,10 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=flat&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=akash0-real&color=brightgreen&style=flat&label=Profile+Views)
 
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash0-real&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=akash0-real&theme=tokyonight&hide_border=true)
 
 </div>
