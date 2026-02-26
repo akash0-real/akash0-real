@@ -43,8 +43,8 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akash0-real&color=brightgreen&style=flat&label=Profile+Views)
-
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash0-real&show_icons=true&theme=tokyonight&hide_border=true)
+[
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash0-real&show_icons=true&theme=tokyonight&hide_border=true)](https://github-readme-stats-git-masterorcitr-es-akashs-projects.vercel.app/api?username=akash0-real&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=akash0-real&theme=tokyonight&hide_border=true)
 
