@@ -39,7 +39,7 @@
 ---
 
 <div align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=akash0-real&theme=tokyonight&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=akash0-real&color=brightgreen&style=flat&label=Profile+Views)
 </div>
 
 ## 📊 GitHub Stats
