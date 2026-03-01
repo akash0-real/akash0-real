@@ -38,12 +38,16 @@
 
 ---
 
+<div align="center">
+![GitHub Streak](https://streak-stats.demolab.com?user=akash0-real&theme=tokyonight&hide_border=true)
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
 ![Akash's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akash0-real&theme=tokyonight)
-![Profile Views](https://komarev.com/ghpvc/?username=akash0-real&color=brightgreen&style=flat&label=Profile+Views)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=akash0-real&theme=tokyonight&hide_border=true)
 
