@@ -28,7 +28,7 @@
 ## 🎯 Hobbies
 
 - 🏸 Playing **Badminton**
-- 💀 Destroying my **Linux setup** (and fixing it at 2am)
+- Destroying my **Linux setup** (I love Linux)
 
 ---
 
