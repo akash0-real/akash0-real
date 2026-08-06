@@ -27,7 +27,7 @@
 
 ## 🎯 Hobbies
 
-- 🏸 Playing **Badminton**
+- Watching **F1**(not a larp, i swear)
 - Destroying my **Linux setup** (I love Linux)
 
 ---
