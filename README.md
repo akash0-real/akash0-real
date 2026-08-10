@@ -15,7 +15,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=F5A324&center=true&vCenter=true&width=500&lines=CS+%40+RV+University%2C+Bengaluru;Arch+Linux+%2F+Hyprland+btw;Building+Devops+skills;Docker+%E2%86%92+K8s+%E2%86%92+whatever+breaks+next;Watching+a+45-min+detective+video+rn)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=F5A324&center=true&vCenter=true&width=500&lines=CS+%40+RV+University%2C+Bengaluru;Arch+Linux+%2F+Hyprland+btw;Building+Devops+skills;Docker+%E2%86%92+K8s+%E2%86%92+whatever+breaks+next;Watching+a+45-min+detective+video+rn)](https://readme-typing-svg.demolab.com)
 
 <br/>
 
@@ -33,16 +33,19 @@
 ```yaml
 name       : Akash
 role       : CS Student @ RV University
+status     : [ building · caffeinated · online ]
+```
+## ❯ uname -a
+```yaml
+interests  : Linux  •  DevOps  •  F1  •  Detective YouTube rabbit holes
 os         : Arch Linux — btw
 wm         : Hyprland
 editor     : whatever isn't on fire right now
-status     : [ building · caffeinated · online ]
-interests  : Linux  •  DevOps  •  F1  •  Detective YouTube rabbit holes
 ```
 
 ---
 
-## ❯ tech stack
+## ❯ pacman -Qe
 
 <details open>
 <summary><b>Languages</b></summary>
@@ -83,7 +86,7 @@ interests  : Linux  •  DevOps  •  F1  •  Detective YouTube rabbit holes
 
 ---
 
-## ❯ what i'm building
+## ❯ projects --active
 
 | Project | What it is | Status |
 |---|---|:---:|
@@ -91,14 +94,13 @@ interests  : Linux  •  DevOps  •  F1  •  Detective YouTube rabbit holes
 
 ---
 
-## ❯ github
+## ❯ github --status
 
 <div align="center">
-
+ 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=akash0-real&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=f5a324&icon_color=f5a324" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash0-real&layout=compact&theme=tokyonight&hide_border=true&title_color=f5a324" />
 
-<br/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash0-real&layout=compact&theme=tokyonight&hide_border=true&title_color=f5a324" />
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=akash0-real&theme=tokyo-night&hide_border=true&color=f5a324&line=f5a324&point=ffffff" />
 
@@ -106,15 +108,8 @@ interests  : Linux  •  DevOps  •  F1  •  Detective YouTube rabbit holes
 
 ---
 
-## ❯ the confession
 
-> I'm obsessed with cop/detective YouTube — the 45-minute deep dives where someone pieces together an entire case from scratch.
->
-> If the title says **"How Detectives Solved This Case"** I am already watching it.
-
----
-
-## ❯ off hours
+## ❯ ps aux | grep hobbies
 
 ```
 🏎️  Formula 1          — not a larp, genuine race-watchers hours
@@ -124,7 +119,15 @@ interests  : Linux  •  DevOps  •  F1  •  Detective YouTube rabbit holes
 
 ---
 
-## ❯ let's connect
+## ❯ cat /dev/random
+
+> I'm obsessed with cop/detective YouTube — the 45-minute deep dives where someone pieces together an entire case from scratch.
+>
+> If the title says **"How Detectives Solved This Case"** I am already watching it.
+
+---
+
+## ❯ sudo connect
 
 Building something interesting? Working on open source? Want to argue about tyre strategy or window managers?
 
