@@ -88,12 +88,17 @@ editor     : whatever isn't on fire right now
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=akash0-real&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=f5a324&icon_color=f5a324" alt="Akash's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash0-real&layout=compact&theme=tokyonight&hide_border=true&title_color=f5a324" alt="Most used languages" />
+![Profile views](https://komarev.com/ghpvc/?username=akash0-real&label=PROFILE+VIEWS&color=f5a324&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/akash0-real?style=for-the-badge&logo=github&logoColor=black&label=FOLLOWERS&labelColor=1a1b27&color=f5a324)
+![Joined](https://img.shields.io/badge/ARCH-BTW-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=1a1b27)
+
+<br/><br/>
+
+<img height="165" src="https://streak-stats.demolab.com/?user=akash0-real&theme=tokyonight&hide_border=true&ring=f5a324&fire=f5a324&currStreakLabel=f5a324" alt="Akash's GitHub streak" />
 
 <br/>
 
-*Profile views are counted above. GitHub stats and language cards show public activity.*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akash0-real&bg_color=1a1b27&color=f5a324&line=f5a324&point=ffffff&area=true&area_color=f5a324&hide_border=true&title_color=f5a324" alt="Contribution graph" width="95%" />
 
 </div>
 
