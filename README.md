@@ -95,7 +95,6 @@ editor     : whatever isn't on fire right now
 
 *Profile views are counted above. GitHub stats and language cards show public activity.*
 
-
 </div>
 
 ---
