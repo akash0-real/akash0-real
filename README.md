@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f5a324&height=120&section=header&text=&animation=fadeIn" width="100%"/>
-
-```
+```text
  █████╗ ██╗  ██╗ █████╗ ███████╗██╗  ██╗
 ██╔══██╗██║ ██╔╝██╔══██╗██╔════╝██║  ██║
 ███████║█████╔╝ ███████║███████╗███████║
@@ -13,39 +11,31 @@
 
 ### `building things · breaking things · figuring out why`
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=F5A324&center=true&vCenter=true&width=500&lines=CS+%40+RV+University%2C+Bengaluru;Arch+Linux+%2F+Hyprland+btw;Building+Devops+skills;Docker+%E2%86%92+K8s+%E2%86%92+whatever+breaks+next;Watching+a+45-min+detective+video+rn)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=F5A324&center=true&vCenter=true&width=560&lines=CS+%40+RV+University%2C+Bengaluru;Arch+Linux+%2F+Hyprland+btw;Building+DevOps+skills;Docker+%E2%86%92+Kubernetes+%E2%86%92+whatever+breaks+next;Watching+a+45-minute+detective+video+right+now)](https://readme-typing-svg.demolab.com)
 
 <br/>
 
-[![Email](https://img.shields.io/badge/ayush45r%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayush45r@gmail.com)
-[![GitHub](https://img.shields.io/badge/akash0--real-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akash0-real)
+![Profile views](https://komarev.com/ghpvc/?username=akash0-real&label=PROFILE+VIEWS&color=f5a324&style=flat-square)
+[![Email](https://img.shields.io/badge/akash45r%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:akash45r@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akash0-real)
 
 </div>
 
-<br/>
-
 ---
 
-## ❯ whoami
+## `whoami`
 
 ```yaml
 name       : Akash
 role       : CS Student @ RV University
-status     : [ building · caffeinated · online ]
-```
-## ❯ uname -a
-```yaml
-interests  : Linux  •  DevOps  •  F1  •  Detective YouTube rabbit holes
+status     : building · caffeinated · online
+interests  : Linux · DevOps · F1 · detective YouTube rabbit holes
 os         : Arch Linux — btw
 wm         : Hyprland
 editor     : whatever isn't on fire right now
 ```
 
----
-
-## ❯ pacman -Qe
+## `pacman -Qe`
 
 <details open>
 <summary><b>Languages</b></summary>
@@ -86,7 +76,7 @@ editor     : whatever isn't on fire right now
 
 ---
 
-## ❯ projects --active
+## `projects --active`
 
 | Project | What it is | Status |
 |---|---|:---:|
@@ -94,50 +84,43 @@ editor     : whatever isn't on fire right now
 
 ---
 
-## ❯ github --status
+## `github --telemetry`
 
 <div align="center">
- 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=akash0-real&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=f5a324&icon_color=f5a324" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash0-real&layout=compact&theme=tokyonight&hide_border=true&title_color=f5a324" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=akash0-real&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=f5a324&icon_color=f5a324" alt="Akash's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash0-real&layout=compact&theme=tokyonight&hide_border=true&title_color=f5a324" alt="Most used languages" />
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=akash0-real&theme=tokyo-night&hide_border=true&color=f5a324&line=f5a324&point=ffffff" />
+<br/>
+
+*Profile views are counted above. GitHub stats and language cards show public activity.*
+
 
 </div>
 
 ---
 
+## `ps aux | grep hobbies`
 
-## ❯ ps aux | grep hobbies
-
-```
+```text
 🏎️  Formula 1          — not a larp, genuine race-watchers hours
 🐧  Destroying Linux   — rebuilding the same Arch setup for the nth time
 🎮  Gaming             — when the dotfiles are finally in order
 ```
 
----
-
-## ❯ cat /dev/random
+## `cat /dev/random`
 
 > I'm obsessed with cop/detective YouTube — the 45-minute deep dives where someone pieces together an entire case from scratch.
 >
-> If the title says **"How Detectives Solved This Case"** I am already watching it.
+> If the title says **"How Detectives Solved This Case"** I'm already watching it.
 
----
-
-## ❯ sudo connect
+## `sudo connect`
 
 Building something interesting? Working on open source? Want to argue about tyre strategy or window managers?
 
-**→ [ayush45r@gmail.com](mailto:ayush45r@gmail.com)**
-
----
+**→ [akash45r@gmail.com](mailto:akash45r@gmail.com)**
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f5a324&height=80&section=footer" width="100%"/>
 
 *keep building · keep breaking · keep learning*
 
